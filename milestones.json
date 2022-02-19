@@ -159,5 +159,12 @@
   {"type":"item", "name":"se-core-fragment-uranium-ore", "quantity":1},
   {"type":"item", "name":"se-core-fragment-crude-oil", "quantity":1},
   {"type":"item", "name":"se-core-fragment-se-beryllium-ore", "quantity":1},
-  {"type":"item", "name":"se-core-fragment-se-cryonite", "quantity":1}
+  {"type":"item", "name":"se-core-fragment-se-cryonite", "quantity":1},
+  {"type":"item", "name":"se-space-rail", "quantity":1},
+  {"type":"item", "name":"kr-nuclear-locomotive", "quantity":1},
+  {"type":"item", "name":"solar-panel", "quantity":1},
+  {"type":"item", "name":"kr-advanced-solar-panel", "quantity":1},
+  {"type":"item", "name":"se-space-solar-panel", "quantity":1},
+  {"type":"item", "name":"se-space-solar-panel-2", "quantity":1},
+  {"type":"item", "name":"se-space-solar-panel-3", "quantity":1}
 ]
