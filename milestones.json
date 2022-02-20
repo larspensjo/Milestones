@@ -168,9 +168,4 @@
   {"type":"item", "name":"se-space-solar-panel", "quantity":1},
   {"type":"item", "name":"se-space-solar-panel-2", "quantity":1},
   {"type":"item", "name":"se-space-solar-panel-3", "quantity":1},
-  {"type":"item", "name":"se-significant-data", "quantity":10000,"next":"x10"},
-  {"type":"item", "name":"se-rocket-launch-pad-silo-dummy-result-item", "quantity":10,"next":"x10"},
-  {"type":"item", "name":"se-significant-data", "quantity":100000,"next":"x10"},
-  {"type":"item", "name":"se-rocket-launch-pad-silo-dummy-result-item", "quantity":100,"next":"x10"},
-  {"type":"item", "name":"se-rocket-launch-pad-silo-dummy-result-item", "quantity":1000,"next":"x10"}
 ]
