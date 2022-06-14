@@ -167,5 +167,15 @@
   {"type":"item", "name":"kr-advanced-solar-panel", "quantity":1},
   {"type":"item", "name":"se-space-solar-panel", "quantity":1},
   {"type":"item", "name":"se-space-solar-panel-2", "quantity":1},
-  {"type":"item", "name":"se-space-solar-panel-3", "quantity":1}
+  {"type":"item", "name":"se-space-solar-panel-3", "quantity":1},
+  {"type":"item", "name":"kr-advanced-chemical-plant", "quantity":1},
+  {"type":"item", "name":"kr-advanced-furnace", "quantity":1},
+  {"type":"item", "name":"kr-advanced-assembling-machine", "quantity":1},
+  {"type":"technology", "name":"se-ion-engine", "quantity":1},
+  {"type":"technology", "name":"se-antimatter-engine", "quantity":1},
+  {"type":"item", "name":"se-space-supercomputer-1", "quantity":1},
+  {"type":"item", "name":"se-space-supercomputer-2", "quantity":1},
+  {"type":"item", "name":"se-space-supercomputer-3", "quantity":1},
+  {"type":"item", "name":"se-space-supercomputer-4", "quantity":1},
+  {"type":"item", "name":"kr-fusion-reactor", "quantity":1}
 ]
